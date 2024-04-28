@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Http\Request;
-
+// Ziyaaf
 define('LARAVEL_START', microtime(true));
 
 // Determine if the application is in maintenance mode...
